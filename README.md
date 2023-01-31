@@ -8,7 +8,7 @@ Link: [https://formulae.brew.sh/formula/cmatrix](https://formulae.brew.sh/formul
 
 ## cmus
 
-Instructions: 
+Instructions: [cmus.md](cmus.md)
 
 Link: [https://formulae.brew.sh/formula/cmus](https://formulae.brew.sh/formula/cmus)
 
