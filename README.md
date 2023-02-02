@@ -37,9 +37,8 @@ Link: [https://formulae.brew.sh/formula/cmatrix](https://formulae.brew.sh/formul
 
 ### cmus
 
-Instructions: [cmus.md](cmus.md)
-
-Link: [https://formulae.brew.sh/formula/cmus](https://formulae.brew.sh/formula/cmus)
+Instructions: [cmus.md](cmus.md)  
+Link: [https://formulae.brew.sh/formula/cmus](https://formulae.brew.sh/formula/cmus)  
 
 ### gtop
 
@@ -47,16 +46,14 @@ Link: [https://www.cyberciti.biz/howto/gtop-awesome-system-monitoring-dashboard-
 
 ### nvim
 
-Link: [https://neovim.io/](https://neovim.io/)
-
+Instructions: [neovim.md](neovim.md)  
+Link: [https://neovim.io/](https://neovim.io/)  
 Setup video: [https://www.youtube.com/watch?v=JWReY93Vl6g](https://www.youtube.com/watch?v=JWReY93Vl6g)  
-
-Comparison - vim and nvim: [https://www.youtube.com/watch?v=R8tI4gpzkE4](https://www.youtube.com/watch?v=R8tI4gpzkE4)
+Comparison - vim and nvim: [https://www.youtube.com/watch?v=R8tI4gpzkE4](https://www.youtube.com/watch?v=R8tI4gpzkE4)  
 
 ### Midnight Commander
 
-Instructions: [mc.md](mc.md)
-
+Instructions: [mc.md](mc.md)  
 Link: [https://midnight-commander.org/](https://midnight-commander.org/)
 
 ### neofetch
