@@ -49,6 +49,7 @@ Link: [https://www.cyberciti.biz/howto/gtop-awesome-system-monitoring-dashboard-
 Instructions: [neovim.md](neovim.md)  
 Link: [https://neovim.io/](https://neovim.io/)  
 Setup video: [https://www.youtube.com/watch?v=JWReY93Vl6g](https://www.youtube.com/watch?v=JWReY93Vl6g)  
+`init.vim` as shown in the setup video: [config/init.vim](config/init.vim)  
 Comparison - vim and nvim: [https://www.youtube.com/watch?v=R8tI4gpzkE4](https://www.youtube.com/watch?v=R8tI4gpzkE4)  
 
 ### Midnight Commander
