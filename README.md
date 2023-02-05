@@ -30,7 +30,6 @@ More useful settings:
 Splitting a ZIP archive into `50M` sized parts:
 ```
 	zip existing.zip --out new.zip -s 50m
-
 ```
 
 ## CLI Tools 
