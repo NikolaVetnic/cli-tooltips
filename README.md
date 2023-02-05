@@ -25,6 +25,14 @@ More useful settings:
 	export LSCOLORS="GxfxcxdxDxegedabagacad"
 ```
 
+## Tooltips
+
+Splitting a ZIP archive into `50M` sized parts:
+```
+	zip existing.zip --out new.zip -s 50m
+
+```
+
 ## CLI Tools 
 
 ### bat
