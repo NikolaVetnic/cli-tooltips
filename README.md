@@ -15,6 +15,9 @@ Some of the aliases I find useful:
 	alias brew='/opt/homebrew/bin/brew'
 	alias nf='/opt/homebrew/Cellar/neofetch/7.1.0/bin/neofetch'
 	alias echo_path='echo $PATH | sed '\''s/:/\n/g'\'' | sort | uniq -c'	
+	alias zed='nv ~/.zshrc'
+	alias zrc='source ~/.zshrc'
+	alias tt='tree -C'
 ```
 
 ### Other `.zshrc` Settings
@@ -67,6 +70,11 @@ Link: [https://midnight-commander.org/](https://midnight-commander.org/)
 ### neofetch
 
 Link: [https://www.cyberciti.biz/howto/neofetch-awesome-system-info-bash-script-for-linux-unix-macos/](https://www.cyberciti.biz/howto/neofetch-awesome-system-info-bash-script-for-linux-unix-macos/)
+
+### tree
+
+Homebrew: [https://formulae.brew.sh/formula/tree](https://formulae.brew.sh/formula/tree)  
+Link: [http://mama.indstate.edu/users/ice/tree/](http://mama.indstate.edu/users/ice/tree/)
 
 ## Non-CLI Tools
 
