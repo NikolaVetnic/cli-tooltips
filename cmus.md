@@ -14,4 +14,7 @@ I use these keys most times I run cmus. They're configurable, but these are the 
 * `-` - reduce the volume by 10%  
 * `+` - increase the volume by 10%  
 
+Other commands:
+* `update-cache` - update music cache (in case tracks are removed or added)  
+
 Original article: [https://www.increasinglyadequate.com/cmus.html](https://www.increasinglyadequate.com/cmus.html)

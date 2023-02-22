@@ -82,6 +82,10 @@ Link: [http://mama.indstate.edu/users/ice/tree/](http://mama.indstate.edu/users/
 
 An [open source audio file encoder](http://flacon.github.io/). You can split a single large audio file containing the entire album (i.e. a `CUE` file) into the separate audio tracks. 
 
+### Rectangle
+
+Window layout tool, available [here](https://rectangleapp.com/).
+
 ### Stats
 
 Link: [https://github.com/exelban/stats](https://github.com/exelban/stats)
